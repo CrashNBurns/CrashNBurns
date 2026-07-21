@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a rel="me" href="https://infosec.exchange/@CrashNBurns">Mastodon verification link</a>
+<a rel="me" href="https://infosec.exchange/@CrashNBurns">Mastodon</a>
 
 <!--
 **CrashNBurns/CrashNBurns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
